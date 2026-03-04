@@ -78,4 +78,4 @@ Example of bot features inside Discord server.
 If you need help or want updates, join the community server.
 
 Discord Server:
-[https://discord.gg/YOURSERVER](https://discord.gg/V8fbkWs5W2)
+[https://discord.gg/𝐍𝐎 𝐋𝐈𝐌𝐈𝐓𝐒 𝐇𝐔𝐁](https://discord.gg/V8fbkWs5W2)
