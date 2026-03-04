@@ -1,5 +1,5 @@
 # no-limits-bot
-Discord multi-feature bot with giveaways, ship compatibility and anonymous confessions.
+A powerful multi-feature Discord bot with giveaways, ship compatibility, and anonymous confession system.
 # No Limits Discord Bot
 
 A multi-feature Discord bot designed for community servers.
@@ -38,3 +38,44 @@ DISCORD_TOKEN=your_token
 
 3. Run the bot
 python main.py
+## Installation
+
+Clone the repository
+
+git clone https://github.com/tmsay1/no-limits-bot
+
+Go to project folder
+
+cd no-limits-bot
+
+Install requirements
+
+pip install -r requirements.txt
+
+Run the bot
+
+python main.py
+
+
+## Usage
+
+Commands available:
+
+/giveaway_start - Start a giveaway  
+/ship - Calculate compatibility between two users  
+/confess - Send anonymous confession  
+
+
+## Screenshots
+
+Example of bot features inside Discord server.
+
+(Add screenshots here later)
+
+
+## Support
+
+If you need help or want updates, join the community server.
+
+Discord Server:
+https://discord.gg/YOURSERVER
