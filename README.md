@@ -78,4 +78,4 @@ Example of bot features inside Discord server.
 If you need help or want updates, join the community server.
 
 Discord Server:
-https://discord.gg/YOURSERVER
+[https://discord.gg/YOURSERVER](https://discord.gg/V8fbkWs5W2)
